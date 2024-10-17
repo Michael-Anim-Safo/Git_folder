@@ -96,5 +96,5 @@ $$M_{ij} = \langle w_n \psi | (x - q_n)^{i+j-2} | \psi \rangle, \quad i, j \in \
 
 Using $$\( |\psi|^2 \)$$ as the weighting function in $$\( I_n \)$$ removes the division by $$\( \psi \)$$ in the integrand. Additionally, the localization of $$\( w_n \)$$ tunes the resolution of $$\( \tilde{\eta}_n \)$$ from low $$(\( \beta \to 0 \))$$ to high $$(\( \beta \to \infty \))$$, transitioning from a global to a local fit.
 
-
+I referenced: Garashchuk, S. and Großmann, F., 2024. Assessing the Accuracy of Quantum Dynamics Performed in the Time-Dependent Basis Representation. The Journal of Physical Chemistry A.
 
