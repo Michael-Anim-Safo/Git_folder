@@ -81,7 +81,7 @@ solve the following system of linear equations for each $$\( q_n \)$$:
 
 $$M d = -b $$
 
-$$b_j = \langle w_n \psi | (x - q_n)^{j-1}$$
+$$b_j = \langle w_n \psi | (x - q_n)^{j-1} | \nabla \psi \rangle$$
 
 The following equations define the system of linear equations for computing the fitting parameters:
 
